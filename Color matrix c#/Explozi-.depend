@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640092748 source:c:\users\andrew\desktop\code\explozi-\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1640207474 source:c:\users\andrew\desktop\code\color matrix c#\main.c
+	<stdio.h>
+	<stdlib.h>
+
